@@ -1,0 +1,10 @@
+name = "learning_ada"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Paul-Mathias Logue"]
+maintainers = ["Paul-Mathias Logue <example@example.com>"]
+maintainers-logins = ["incomblable"]
+licenses = "MIT"
+website = ""
+tags = []
